@@ -23,7 +23,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # TKtest1
 
 TKtest1
-
-# 提交后回滚测试！
-
-# 提交后回滚测试2！
